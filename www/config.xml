@@ -5,7 +5,7 @@
         id        = "mob.app.dev.nav"
         version   = "1.0.0">
 
-    <name>Navigations app</name>
+    <name>Navigation app</name>
 
     <description>
         A sample application about navigation inside the app.
